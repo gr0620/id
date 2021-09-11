@@ -11,7 +11,7 @@
  1. Fork 本专案到自己的 GitHub 账户（用户名以 `example` 为例）
  3. 修改 `README.md`，将 替换为自己的内容（如 `example/demo`）
 
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/gr0620/v2ray-heroku)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/gr0620/id)
 
  4. 回到专案首页，点击上面的链接以部署 V2Ray
 
