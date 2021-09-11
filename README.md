@@ -9,7 +9,7 @@
 ### 步骤
 
  1. Fork 本专案到自己的 GitHub 账户（用户名以 `example` 为例）
- 3. 修改 `README.md`，将 替换为自己的内容（如 `example/demo`）
+ 3. 修改 `README.md`，将 替换为自己的内容（如 `example/gr`）
 
 > [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/bclswl0827/v2ray-heroku)
 
